@@ -4,7 +4,7 @@
  *      *** Do not modify ! ***
  *
  * Project: 'finalterm' 
- * Target:  'Target 1' 
+ * Target:  'LPC1114' 
  */
 
 #ifndef RTE_COMPONENTS_H
